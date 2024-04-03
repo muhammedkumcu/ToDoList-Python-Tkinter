@@ -1,9 +1,9 @@
-#TO-DO List Uygulaması
+<h1>TO-DO List Uygulaması</h1>
 Bu proje, kullanıcının bir tabloya görevlerini ekleyebilmesini, onları tamamlandı olarak işaretleyebilmesini, seçtiği görevleri silebilmesini veya tamamlanan görevleri silebilmesini sağlar.
 
 Bu proje tek bir Python dosyasından oluşmaktadır.
 
-<h1>Fonksiyonlar ve Açıklamaları</h1>
+<h3>Fonksiyonlar ve Açıklamaları</h3>
 1- init(self, root):
   Uygulama penceresinin ayarlamaları yapılır.
   3 adet frame oluşturulur:
@@ -23,7 +23,7 @@ Bu proje tek bir Python dosyasından oluşmaktadır.
   Tamamlanan görevler geçici bir listede tutulur.
   Geçici listedeki görevler gorevlerUst listesine kopyalanır.
   dosya_yazdir() ve tabloyu_guncelle() fonksiyonları çağrılır.
-<h3>Kullanım</h3>
+<h4>Kullanım</h4>
 Proje çalıştırıldığında uygulama penceresi açılır.
 Görev eklemek için ekleme kutusuna görev yazıp 'enter' tuşuna basılır.
 Görevler tamamlandığında veya silinmek istendiğinde ilgili butonlara tıklanır.
