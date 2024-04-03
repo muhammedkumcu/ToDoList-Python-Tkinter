@@ -1,7 +1,7 @@
 <h1>TO-DO List Uygulaması</h1>
 Bu proje, kullanıcının bir tabloya görevlerini ekleyebilmesini, onları tamamlandı olarak işaretleyebilmesini, seçtiği görevleri silebilmesini veya tamamlanan görevleri silebilmesini sağlar.
 
-Bu proje tek bir Python dosyasından oluşmaktadır.
+Bu proje tek bir Python dosyasından oluşmaktadır. Projenin görsel kısmı için tkinter kütüphanesinden yararlanılmıştır.
 
 <h3>Fonksiyonlar ve Açıklamaları</h3>
 1- init(self, root):
